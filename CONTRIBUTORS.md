@@ -4,4 +4,6 @@
 
 ## Mentors
 
+- Andrew Hedges
+
 ## Code of Conduct Contacts
